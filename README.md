@@ -5,7 +5,7 @@
 ### Hi, I'm Ahmed Fathi ! 👋
 
 #### A student at the Faculty of Engineering, Tanta University, Department of Computers and Automatic Control,
-### Web developer and Software Engineer.
+#### Web developer and Software Engineer.
 
 ## 🛠 Skills
 
