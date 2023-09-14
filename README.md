@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-### Hi, I'm Ahmed Fathi ! 👋
+### Hi, I'm Ahmed Fathi! 👋
 
 #### A student at the Faculty of Engineering, Tanta University, Department of Computers and Automatic Control,
 #### Web developer and Software Engineer.
@@ -13,11 +13,11 @@
 
 ## 🔴Current Status🔴
 
-👩‍💻 I'm currently working as Freelancer
+👩‍💻 I'm currently working as a Freelancer
 
 👨‍💼 Available For work
 
-🧠 I'm currently learning Node.Js and Wordpress
+🧠 I'm currently learning Node.Js and WordPress
 
 ## 🗨 Social Media
 <a href='https://www.facebook.com/profile.php?id=100086581486734'><img width='10%' height='30px' src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white'/>
