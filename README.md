@@ -4,7 +4,7 @@
 
 ### Hi, I'm Ahmed Fathi! 👋
 
-#### A student at the Faculty of Engineering, Tanta University, Department of Computers and Automatic Control,
+#### I am 23 and graduated from Tanta University, Faculty of Engineering. As a front-end-focused full-stack developer, I specialize in React for front-end development and have experience in backend development using Node.js, PHP MySQL, and Laravel. Committed to delivering high-quality software solutions, I leverage my skills in both front-end and back-end technologies to contribute effectively to projects.
 #### Web developer and Software Engineer.
 
 ## 🛠 Skills
@@ -17,14 +17,14 @@
 
 👨‍💼 Available For work
 
-🧠 I'm currently learning Node.Js and WordPress
+🧠 I'm currently learning Laravel and WordPress
 
 ## 🗨 Social Media
 <a href='https://www.facebook.com/profile.php?id=100086581486734'><img width='10%' height='30px' src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white'/>
 <a/>
 <a href='linkedin.com/in/ahmed-fathi-1a4593247/'><img width='10%' height='30px' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>
 <a/>
-<a href='https://api.whatsapp.com/send/?phone=201557979376&text&type=phone_number&app_absent=0'><img width='10%' height='30px' src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/>
+<a href='https://api.whatsapp.com/send/?phone=201040284664&text&type=phone_number&app_absent=0'><img width='10%' height='30px' src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 <a/>
 <a href='https://ahmedfathiaboelanin.github.io/portfolio/'><img width='10%' height='30px' src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139'/>
 <a/>
